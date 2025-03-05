@@ -1,8 +1,10 @@
 ## Olá ! Eu sou Fabricio P. Leal (LealDev)
 
-- 👋 Hi, I’m @LealDevhub
-- 👀 I’m interested in enter the field of information technology 
-- 💞️ I’m looking to collaborate on backend development in the Java language
+About me:
+- 📝 I am currently in the last semester of the Bachelor's Degree in Information Technology at UNIVESP (Virtual University of the State of São Paulo).
+- 🛃 Full-Stack Developer | JavaScript | HTML | CSS | Node.js | API | SQL
+- 👀 I am a sales representative at GPC IT, where I present product solutions for Data Centers
+- 💞️ How to reach me: [linkedin](https://www.linkedin.com/in/lealdev/)
 
 <div>
   <a href="https://lealdevhub.github.io/Portfolio">
