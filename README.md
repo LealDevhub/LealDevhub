@@ -5,6 +5,7 @@ About me:
 - 🛃 Full-Stack Developer | JavaScript | HTML | CSS | Node.js | API | SQL
 - 👀 I am a sales representative at GPC IT, where I present product solutions for Data Centers
 - 💞️ How to reach me: [linkedin](https://www.linkedin.com/in/lealdev/)
+- 🚀 My portfolio: [fabriciopleal.com/](https://fabriciopleal.com/)
 
 <div>
   <a href="https://lealdevhub.github.io/Portfolio">
