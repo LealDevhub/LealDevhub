@@ -18,12 +18,11 @@ About me:
 ![](https://nirzak-streak-stats.vercel.app/?user=LealDevhub&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LealDevhub&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=LealDevhub&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/LealDevhub/LealDevhub/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LealDevhub/LealDevhub/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LealDevhub/LealDevhub/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LealDevhub/LealDevhub/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
