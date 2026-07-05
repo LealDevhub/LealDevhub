@@ -3,7 +3,7 @@
 🎓 Bacharel em Tecnologia da Informação pela UNIVESP (Universidade Virtual do Estado de São Paulo) <br>
 💻 Full-Stack Developer | JavaScript · HTML · CSS · Node.js · API · SQL <br>
 🛃 Representante de Vendas na GPC IT, apresentando soluções de produtos para Data Centers <br>
-🚀 Confira meu portfólio: [fabriciopleal.com](https://fabriciopleal.com/) v
+🚀 Confira meu portfólio: [fabriciopleal.com](https://fabriciopleal.com/)
 💞️ Vamos nos conectar: [LinkedIn](https://www.linkedin.com/in/lealdev/) <br>
 
 ---
